@@ -3,5 +3,5 @@
     "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
     "project_version": "0.1.0",
     "project_description": "My new project.",
-    "project_author": "Thierry Chappuis",
+    "project_author": "Thierry Chappuis"
 }
